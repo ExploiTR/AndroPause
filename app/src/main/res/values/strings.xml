@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroPause</string>
+    <string name="action_settings">Settings</string>
+    <string name="hi">Hi!</string>
+    <string name="check_availability">Check Availability</string>
+    <string name="greetings">Welcome to AndroPause!\n</string>
+    <string name="aboutof">AndroPause will help you to hang your Android Device!</string>
+    <string name="pathway">Tap the below button to check if you can do it.</string>
+    <string name="whattodo">Do you want to really proceed?\n\nYou will be responsible for anything messed up with your device.</string>
+</resources>
